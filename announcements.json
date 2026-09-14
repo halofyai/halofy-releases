@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "announcement": {
+    "id": "feature-announcements",
+    "title": "Feature announcements",
+    "description": "Discover new Halofy features from a notification inside the app. Open What’s new for details, or dismiss the notice to keep working. Some features may require updating your app or connected server.",
+    "url": "https://github.com/halofyai/halofy-releases/releases/latest",
+    "platforms": [
+      "web",
+      "desktop",
+      "mobile"
+    ]
+  }
+}

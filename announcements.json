@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "feature-announcements",
-    "title": "Feature announcements",
-    "description": "Discover new Halofy features from a notification inside the app. Open What’s new for details, or dismiss the notice to keep working. Some features may require updating your app or connected server.",
+    "id": "workstation-conversation-capture-v2",
+    "title": "Bring agent conversations back to Halofy",
+    "description": "After updating your app and host server, enable capture on the host in Settings → Connections → Halofy account. New conversations can appear in your team's workspace at app.halofy.ai with supported messages, tools, subagent conversations and reported token counts. Spend estimates require complete usage and available pricing. Capture is optional and can be paused. Files, images and earlier history are excluded; start a new conversation after enabling or resuming.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
       "web",

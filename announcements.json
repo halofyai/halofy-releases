@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "workstation-conversation-capture-v2",
-    "title": "Bring agent conversations back to Halofy",
-    "description": "After updating your app and host server, enable capture on the host in Settings → Connections → Halofy account. New conversations can appear in your team's workspace at app.halofy.ai with supported messages, tools, subagent conversations and reported token counts. Spend estimates require complete usage and available pricing. Capture is optional and can be paused. Files, images and earlier history are excluded; start a new conversation after enabling or resuming.",
+    "id": "workstation-opus-5-5-provider-updates-v1",
+    "title": "Claude Opus 5.5 and automatic provider updates",
+    "description": "Update Halofy Workstation and its host server to add Claude Opus 5.5 to the model picker. Opus 5.5 requires Claude Code 2.1.280 or newer and an account with model access. Supported provider CLI updates now install automatically; review progress in Settings → Providers or turn automatic installation off in Settings → General. Package-manager version pins, release channels and installation-source delays still apply. This release includes an unsigned Windows installer; macOS installers remain signed and notarized.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
       "web",

@@ -1,14 +1,13 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "workstation-opus-5-5-provider-updates-v1",
-    "title": "Claude Opus 5.5 and automatic provider updates",
-    "description": "Update Halofy Workstation and its host server to add Claude Opus 5.5 to the model picker. Opus 5.5 requires Claude Code 2.1.280 or newer and an account with model access. Supported provider CLI updates now install automatically; review progress in Settings → Providers or turn automatic installation off in Settings → General. Package-manager version pins, release channels and installation-source delays still apply. This release includes an unsigned Windows installer; macOS installers remain signed and notarized.",
+    "id": "workstation-agent-tickets-v1",
+    "title": "An agent-driven ticket board",
+    "description": "Open Tickets to capture project work, ask agents to pick it up or delegate it, and review their results before approving Done. On web and desktop, labeled agent cursors carry cards between stages and show who is working on each ticket. Existing saved to-dos move into Backlog when your host updates. Update Halofy and its host server to use the new board.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
       "web",
-      "desktop",
-      "mobile"
+      "desktop"
     ]
   }
 }

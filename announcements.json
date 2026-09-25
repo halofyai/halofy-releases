@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "workstation-agent-tickets-v1",
-    "title": "An agent-driven ticket board",
-    "description": "Open Tickets to capture project work, ask agents to pick it up or delegate it, and review their results before approving Done. On web and desktop, labeled agent cursors carry cards between stages and show who is working on each ticket. Existing saved to-dos move into Backlog when your host updates. Update Halofy and its host server to use the new board.",
+    "id": "workstation-tasks-all-projects-v1",
+    "title": "Tasks across all your projects",
+    "description": "The Tasks board now opens with All projects selected. Filter by project when needed, choose a project when creating work, and follow agents across connected environments. Saved-session tools can list and settle completed conversations even when their tabs are closed.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
       "web",

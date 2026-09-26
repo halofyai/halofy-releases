@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "workstation-tasks-all-projects-v1",
-    "title": "Tasks across all your projects",
-    "description": "The Tasks board now opens with All projects selected. Filter by project when needed, choose a project when creating work, and follow agents across connected environments. Saved-session tools can list and settle completed conversations even when their tabs are closed.",
+    "id": "workstation-media-grok-tasks-v1",
+    "title": "Video backgrounds, music and smoother task controls",
+    "description": "Personalize chats with looping video backgrounds and optional CLIamp music controls. Manage Grok Bots from Settings and keep conversations connected through temporary interruptions. Filter Tasks by device and project, with improved mouse, touch and keyboard dragging. Agents receive more compact guidance while keeping current workspace rules.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
       "web",

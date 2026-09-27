@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "workstation-media-grok-tasks-v1",
-    "title": "Video backgrounds, music and smoother task controls",
-    "description": "Personalize chats with looping video backgrounds and optional CLIamp music controls. Manage Grok Bots from Settings and keep conversations connected through temporary interruptions. Filter Tasks by device and project, with improved mouse, touch and keyboard dragging. Agents receive more compact guidance while keeping current workspace rules.",
+    "id": "workstation-stable-themes-budget-v1",
+    "title": "Fresh themes, reliable budget checks and desktop improvements",
+    "description": "Enjoy refreshed built-in themes, clearer task views and improved conversation controls. Temporary budget-check failures now retry automatically. Choose desktop video decoding for better compatibility, with updated desktop and mobile foundations and more dependable production packaging.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
       "web",

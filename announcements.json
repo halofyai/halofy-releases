@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "workstation-session-transfers-device-clarity-20261003",
-    "title": "Session handoffs and clearer device approvals",
-    "description": "Managed conversation capture now preserves links when authorized local sessions share context, where enabled by your workspace. Halofy Connect shows which account is approving a device, lets you switch accounts without losing the device code, and helps distinguish devices with the same name. This release also includes setup-sharing status and recovery controls, and retains the selected-provider budget fix from the previous update.",
+    "id": "workstation-stable-themes-budget-v1",
+    "title": "Fresh themes, reliable budget checks and desktop improvements",
+    "description": "Enjoy refreshed built-in themes, clearer task views and improved conversation controls. Temporary budget-check failures now retry automatically. Choose desktop video decoding for better compatibility, with updated desktop and mobile foundations and more dependable production packaging.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
       "web",

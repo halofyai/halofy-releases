@@ -1,12 +1,11 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "workstation-stable-themes-budget-v1",
-    "title": "Fresh themes, reliable budget checks and desktop improvements",
-    "description": "Enjoy refreshed built-in themes, clearer task views and improved conversation controls. Temporary budget-check failures now retry automatically. Choose desktop video decoding for better compatibility, with updated desktop and mobile foundations and more dependable production packaging.",
+    "id": "workstation-apps-browser-create-v1",
+    "title": "Your websites and internal tools, together in Apps",
+    "description": "Save a website or dashboard as an app with its own persistent login and browser controls. Connected agents can read enabled apps and follow links without repeated access prompts; edits still require approval. Share app definitions across your organisation while everyone keeps their own login. Create app now also offers an internal app option that prepares an editable request in your chat. Local app updates refresh imported UI files, and unavailable share links show a clearer error.",
     "url": "https://github.com/halofyai/halofy-releases/releases/latest",
     "platforms": [
-      "web",
       "desktop"
     ]
   }

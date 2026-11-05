@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "halofy-telemetry-history-20261103",
-    "title": "Halofy-owned analytics and a one-time usage summary",
-    "description": "Product analytics now goes only to Halofy’s PostHog account, using a random installation identity instead of provider account IDs. This update also sends a one-time summary of retained local usage: project and thread counts, past turn outcomes, provider/model choices, tokens and durations where recorded. It does not send prompts, code, paths or messages as analytics. To opt out, set T3CODE_TELEMETRY_ENABLED=false before starting Halofy. Diagnostic logs remain local unless you configure an approved Halofy collector. Upstream service defaults are removed; authorized provider connections and Halofy Connect remain supported. Includes the already-merged Terms signup gate and existing Apps improvements.",
-    "url": "https://github.com/halofyai/halofy-releases/releases/latest",
+    "id": "halofy-local-agents-20261105",
+    "title": "Local agents, shared knowledge and collaboration",
+    "description": "Create local agents with their own appearance, roles, working rules, conversations and folders. Organize them into families, open side chats, attach files, switch models and ask agents to work together in ordered group conversations. Checkpoints and linked Shared Brain documents keep current context available across turns, resume and compaction. Agent details, files and the native Browser use the existing side panel. The sidebar now switches between Agents and Sessions; ordinary Sessions keep their conversations and drafts. Desktop audio and video previews now play local files correctly. Public bot imports and external history analysis remain unavailable. Known limitations: an automatic follow-up can occasionally be empty even when a peer result is available in Exchanges; closing a native Browser tab can still log a nonfatal error. Native mobile agent screens are not included.",
+    "url": "https://halofy.ai/changelog",
     "platforms": [
       "desktop"
     ]

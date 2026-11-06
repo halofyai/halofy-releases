@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "halofy-local-agents-20261105",
-    "title": "Local agents, shared knowledge and collaboration",
-    "description": "Create local agents with their own appearance, roles, working rules, conversations and folders. Organize them into families, open side chats, attach files, switch models and ask agents to work together in ordered group conversations. Checkpoints and linked Shared Brain documents keep current context available across turns, resume and compaction. Agent details, files and the native Browser use the existing side panel. The sidebar now switches between Agents and Sessions; ordinary Sessions keep their conversations and drafts. Desktop audio and video previews now play local files correctly. Public bot imports and external history analysis remain unavailable. Known limitations: an automatic follow-up can occasionally be empty even when a peer result is available in Exchanges; closing a native Browser tab can still log a nonfatal error. Native mobile agent screens are not included.",
+    "id": "halofy-agent-reliability-speed-20261106",
+    "title": "Faster agent opening and more reliable conversations",
+    "description": "Agent switching avoids repeated page-wide rendering work, and empty agents keep their own conversation state while loading. Creating an agent reaches chat sooner, fast opens keep the sidebar responsive, and rapid switches open the last agent you selected. Signed-in agent reads avoid a duplicate workspace request while preserving access checks. Open memory panels update after new checkpoints, including saves from side chats and other clients, without replacing unsaved edits. Quitting or restarting immediately after typing preserves the latest draft. Agent errors stay visible, and closing a loaded Browser tab no longer raises the previous cleanup error. Apps also supports agent-assisted creation and private sign-in setup through separately authorized native computer controls. Known issues: prompt-send latency still needs a separate investigation; some automatic peer-result turns can display an empty-response label even when delivery succeeded. Public bot imports, external history analysis and native mobile agent screens remain unavailable. This update does not claim Grok speed parity.",
     "url": "https://halofy.ai/changelog",
     "platforms": [
       "desktop"

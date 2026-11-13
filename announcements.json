@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "halofy-cloud-agent-status-20261113",
-    "title": "Cloud account safeguards and live Agents status",
-    "description": "Phone sessions reconnect after returning from the background, pairing keeps the correct computer connection, and private Codex sign-in avoids another account’s authentication lock. Concurrent agent approvals no longer hold up their own responses. Returning to Agents keeps your authorized list visible while it refreshes and clears it when your account changes.\n\nAgents now show working, needs-input and idle states, with counts for the current filter. Explicitly linked workers contribute to their parent’s status; Idle means no current activity, not task completion. Cloud account deletion asks for explicit confirmation, records durable access revocation and waits for verified resource removal before reporting cleanup complete. Cloud recovery preserves revocations across restores, checkout returns have an account page, and mobile Cloud details are simpler. Existing onboarding, reorder, file transfers and the built-in browser remain.\n\nKnown issue: Hermes 0.22.2 can exceed its startup deadline on Intel Macs; that qualification remains unresolved. Windows installers remain unsigned.",
+    "id": "halofy-chat-agent-performance-20261113",
+    "title": "Chat mode and smoother Agents lists",
+    "description": "Desktop and web now offer Chat alongside Agents and Sessions. Choose a view from the sidebar dropdown; your conversations, drafts, models and existing Sessions controls stay available. The dropdown also fits narrow sidebars and larger zoom levels.\n\nOn phones and tablets, the two views are Agents and Chats. Existing Sessions open in the simpler Chats view. Developer and Git controls are hidden on mobile, while saved preferences, conversations, permissions, model choices and desktop features are preserved. Agent status updates now avoid refreshing unrelated rows, and shared status loading avoids duplicate requests.\n\nKnown issues remain under investigation: Hermes startup on Intel Macs, protected Claude cleanup and OpenCode startup on Windows, and Antigravity startup on Linux. Windows installers remain unsigned.",
     "url": "https://halofy.ai/changelog",
     "platforms": [
       "desktop"

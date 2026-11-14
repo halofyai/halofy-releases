@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "halofy-chat-agent-performance-20261113",
-    "title": "Chat mode and smoother Agents lists",
-    "description": "Desktop and web now offer Chat alongside Agents and Sessions. Choose a view from the sidebar dropdown; your conversations, drafts, models and existing Sessions controls stay available. The dropdown also fits narrow sidebars and larger zoom levels.\n\nOn phones and tablets, the two views are Agents and Chats. Existing Sessions open in the simpler Chats view. Developer and Git controls are hidden on mobile, while saved preferences, conversations, permissions, model choices and desktop features are preserved. Agent status updates now avoid refreshing unrelated rows, and shared status loading avoids duplicate requests.\n\nKnown issues remain under investigation: Hermes startup on Intel Macs, protected Claude cleanup and OpenCode startup on Windows, and Antigravity startup on Linux. Windows installers remain unsigned.",
+    "id": "halofy-connection-provider-improvements-20261114",
+    "title": "Connection and provider improvements",
+    "description": "This update improves connection compatibility and private OpenCode startup, and shows clearer browser-extension errors in the desktop panel. After updating the browser extension, its chats also show detailed errors and new chats can use the default model from Settings → Preferences. Restricted hosted pairing links stay limited to their granted permissions and require the paired computer to be updated; their updated hosted pairing page rolls out separately.\n\nPhones and tablets keep the Agents and Chats views, with saved conversations, drafts and preferences preserved. Desktop keeps Agents, Sessions and Chat.\n\nKnown issues: Hermes startup on Intel Macs, protected Claude cleanup on Windows and an intermittent Linux Antigravity startup stall remain under investigation. At the largest mobile text size, the no-model setup button can clip its label. Windows installers remain unsigned. Add to Chrome remains disabled until the Chrome Web Store listing is updated.",
     "url": "https://halofy.ai/changelog",
     "platforms": [
       "desktop"

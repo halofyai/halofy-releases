@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "halofy-agent-reliability-445-compatible-android-20261115",
-    "title": "Clearer agent status and more reliable sessions",
-    "description": "Halofy 445 shows actual agent activity and concise reasons for failed turns. Resolved task connection errors disappear when host and client are updated, and agreeing budget checks arriving out of order no longer interrupt work. Protected Antigravity conversations retry temporary provider errors within a bounded retry budget and stop clearly if the model is never reached. Sign-in validation keeps private details out of errors.\n\nMobile 1.4.17 keeps healthy connections through brief app switches and simplifies Agents status text. Android 1.4.17 (build 20) now updates the original .444 app with the same signing key. Install over the existing app; do not uninstall or clear data. The earlier different-key APK is withdrawn. See the release notes for the verified update download. The iOS download is for Apple Silicon Simulator only.\n\nWindows installers remain unsigned. Protected Claude cleanup on Windows and affected Ubuntu Cloud PC snapshot capture remain under investigation. Some mobile controls can clip at the largest accessibility text size. Add to Chrome remains disabled until the Chrome Web Store listing is updated.",
-    "url": "https://halofy.ai/changelog/v0.0.46-halofy.445",
+    "id": "halofy-connection-provider-improvements-20261114",
+    "title": "Connection and provider improvements",
+    "description": "This update improves connection compatibility and private OpenCode startup, and shows clearer browser-extension errors in the desktop panel. After updating the browser extension, its chats also show detailed errors and new chats can use the default model from Settings → Preferences. Restricted hosted pairing links stay limited to their granted permissions and require the paired computer to be updated; their updated hosted pairing page rolls out separately.\n\nPhones and tablets keep the Agents and Chats views, with saved conversations, drafts and preferences preserved. Desktop keeps Agents, Sessions and Chat.\n\nKnown issues: Hermes startup on Intel Macs, protected Claude cleanup on Windows and an intermittent Linux Antigravity startup stall remain under investigation. At the largest mobile text size, the no-model setup button can clip its label. Windows installers remain unsigned. Add to Chrome remains disabled until the Chrome Web Store listing is updated.",
+    "url": "https://halofy.ai/changelog",
     "platforms": [
       "desktop"
     ]

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "id": "halofy-449-one-flow-setup-models-windows-20261120",
-    "title": "One-flow setup, new AI models and Windows fixes",
-    "description": "Fixes: On Windows, Claude installed with npm now starts chats. Connecting Claude, ChatGPT or Gemini now keeps going if Halofy’s connection drops for a moment.\n\nImprovements: New installs sign in first and get set up in one flow: connect your AI subscription and meet your General agent. If a computer has no git, Halofy sets up its own. GPT-6.2 Astra, GPT-6.2 Sol and Gemini 4 Neon are available on ChatGPT and Google plans that include them.\n\nKnown issues: If Halofy installed ChatGPT for you before this update, sign in to ChatGPT again to get GPT-6.2 Astra and Sol. Windows installers remain unsigned.",
+    "id": "halofy-450-avatars-cloud-account-page-group-chats-20261120",
+    "title": "New agent avatars, Cloud on your account page and steadier group chats",
+    "description": "Fixes: A group conversation no longer gets stuck when one agent’s turn can’t start, and Retry response now works. Cloud settings no longer say subscriptions are paused when they just aren’t available for your account. Antigravity now lists every model Google offers your account, not just one; press Update Antigravity once in its settings to get them.\n\nImprovements: Agents have new animated avatars. Halofy Cloud plans are now managed on the Subscription page of your Halofy account; Settings → Cloud opens it and still shows your plan’s status.\n\nKnown issues: Windows installers remain unsigned.",
     "url": "https://halofy.ai/changelog",
     "platforms": [
       "desktop"
